@@ -1,0 +1,9 @@
+build
+.cache
+bin
+
+third_party/asio
+third_party/googletest
+third_party/nlohmann_json
+third_party/spdlog
+third_party/ormpp
